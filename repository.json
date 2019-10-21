@@ -1,0 +1,198 @@
+﻿{
+  "name": "zsakvo",
+  "summary": "Provided links by zsakvo",
+  "list": [
+    {
+      "name": "九桃小说",
+      "url": "https://www.9txs.com",
+      "category": 1,
+      "rank": 0,
+      "auth": false,
+      "version": 101
+    },
+    {
+      "name": "有兔阅读",
+      "url": "https://app.youzibank.com",
+      "category": 1,
+      "rank": 6,
+      "auth": false,
+      "version": 100
+    },
+    {
+      "name": "轻文轻小说",
+      "url": "https://www.iqing.com",
+      "category": 2,
+      "rank": 5,
+      "auth": false,
+      "version": 100
+    },
+    {
+      "name": "看书君",
+      "url": "https://www.kanshujun.com",
+      "category": 1,
+      "rank": 8,
+      "auth": false,
+      "version": 101
+    },
+    {
+      "name": "猎文网",
+      "url": "https://www.liewen.cc",
+      "category": 1,
+      "rank": 0,
+      "auth": false,
+      "version": 100
+    },
+    {
+      "name": "小笔趣阁",
+      "url": "https://www.xiaobiquge.com",
+      "category": 1,
+      "rank": 0,
+      "auth": false,
+      "version": 100
+    },
+    {
+      "name": "88读书网",
+      "url": "https://m.88dush.com",
+      "category": 1,
+      "rank": 0,
+      "auth": false,
+      "version": 100
+    },
+    {
+      "name": "梧州中文台",
+      "url": "http://www.wzzw.la",
+      "category": 1,
+      "rank": 0,
+      "auth": false,
+      "version": 100
+    },
+    {
+      "name": "雅文小说",
+      "url": "https://www.yawen365.com",
+      "category": 1,
+      "rank": 0,
+      "auth": false,
+      "version": 100
+    },
+    {
+      "name": "幼狮书盟",
+      "url": "https://m.yssm.tv",
+      "category": 1,
+      "rank": 0,
+      "auth": false,
+      "version": 100
+    },
+    {
+      "name": "爱奇文学",
+      "url": "https://www.i7wx.com",
+      "category": 1,
+      "rank": 0,
+      "auth": false,
+      "version": 100
+    },
+    {
+      "name": "一本读",
+      "url": "http://www.ybdu.me",
+      "category": 1,
+      "rank": 0,
+      "auth": false,
+      "version": 100
+    },
+    {
+      "name": "文学迷",
+      "url": "https://www.wenxuemi6.com",
+      "category": 1,
+      "rank": 0,
+      "auth": false,
+      "version": 100
+    },
+    {
+      "name": "玫瑰小说网",
+      "url": "https://www.meiguixs.com",
+      "category": 1,
+      "rank": 0,
+      "auth": false,
+      "version": 100
+    },
+    {
+      "name": "笔趣阁",
+      "url": "https://www.biqubao.com",
+      "category": 1,
+      "rank": 0,
+      "auth": false,
+      "version": 103
+    },
+    {
+      "name": "稻草人书屋",
+      "url": "https://www.daocaorenshuwu.com",
+      "category": 3,
+      "rank": 0,
+      "auth": false,
+      "version": 105
+    },
+    {
+      "name": "书农小说",
+      "url": "http://www.qxswk.com",
+      "category": 0,
+      "rank": 4,
+      "auth": false,
+      "version": 100
+    },
+    {
+      "name": "作品集",
+      "url": "http://zuopinj.com",
+      "category": 0,
+      "rank": 4,
+      "auth": false,
+      "version": 101
+    },
+    {
+      "name": "读书369",
+      "url": "http://www.dushu369.com",
+      "category": 0,
+      "rank": 0,
+      "auth": false,
+      "version": 101
+    },
+    {
+      "name": "55小说网",
+      "url": "http://www.liushuba.com",
+      "category": 1,
+      "rank": 0,
+      "auth": false,
+      "version": 100
+    },
+    {
+      "name": "我的小书屋",
+      "url": "https://m.sanyuedev.top",
+      "category": 1,
+      "rank": 3,
+      "auth": false,
+      "version": 103
+    },
+    {
+      "name": "斋书苑",
+      "url": "https://www.zhaishuyuan.com",
+      "category": 1,
+      "rank": 0,
+      "auth": false,
+      "version": 104
+    },
+    {
+      "name": "亲小说",
+      "url": "https://www.qinxiaoshuo.com",
+      "category": 2,
+      "rank": 2,
+      "auth": false,
+      "version": 104
+    },
+    {
+      "name": "轻之文库",
+      "url": "https://www.linovel.net",
+      "category": 2,
+      "rank": 24,
+      "auth": false,
+      "version": 101
+    }
+  ]
+}
